@@ -1,0 +1,5 @@
+c:\users\andre'\documents\visual studio 2013\Projects\operator\operator\bin\Debug\@operator.exe.config
+c:\users\andre'\documents\visual studio 2013\Projects\operator\operator\bin\Debug\@operator.exe
+c:\users\andre'\documents\visual studio 2013\Projects\operator\operator\bin\Debug\@operator.pdb
+c:\users\andre'\documents\visual studio 2013\Projects\operator\operator\obj\Debug\@operator.exe
+c:\users\andre'\documents\visual studio 2013\Projects\operator\operator\obj\Debug\@operator.pdb

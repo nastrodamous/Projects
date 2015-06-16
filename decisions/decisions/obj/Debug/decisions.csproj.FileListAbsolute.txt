@@ -1,0 +1,6 @@
+c:\users\andre'\documents\visual studio 2013\Projects\decisions\decisions\bin\Debug\decisions.exe.config
+c:\users\andre'\documents\visual studio 2013\Projects\decisions\decisions\obj\Debug\decisions.csprojResolveAssemblyReference.cache
+c:\users\andre'\documents\visual studio 2013\Projects\decisions\decisions\bin\Debug\decisions.exe
+c:\users\andre'\documents\visual studio 2013\Projects\decisions\decisions\bin\Debug\decisions.pdb
+c:\users\andre'\documents\visual studio 2013\Projects\decisions\decisions\obj\Debug\decisions.exe
+c:\users\andre'\documents\visual studio 2013\Projects\decisions\decisions\obj\Debug\decisions.pdb

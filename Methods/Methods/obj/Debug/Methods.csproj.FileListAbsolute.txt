@@ -1,0 +1,6 @@
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\bin\Debug\Methods.exe.config
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\bin\Debug\Methods.exe
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\bin\Debug\Methods.pdb
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\obj\Debug\Methods.exe
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\obj\Debug\Methods.pdb

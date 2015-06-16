@@ -1,0 +1,5 @@
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\bin\Release\Methods.exe.config
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\bin\Release\Methods.exe
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\bin\Release\Methods.pdb
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\obj\Release\Methods.exe
+c:\users\andre'\documents\visual studio 2013\Projects\Methods\Methods\obj\Release\Methods.pdb
